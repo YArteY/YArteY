@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="cf8f9311-5bc4-4c4d-9080-615f7a368d91" src="https://github.com/user-attachments/assets/9f756d3b-6ad2-4244-bee2-7efdee615d96" />
+
 # ¡Hola! Soy Daniel Arteaga 👋
 # Manual & Automation Testing
 Soy QA Engineer, graduado del programa de Quality Assurance Engineering de TripleTen. Con experiencia en pruebas funcionales de aplicaciones web y móviles, diseño y ejecución de casos de prueba, validación de APIs y automatización con Python y Selenium. Manejo herramientas como Git, GitHub, Jira, Postman, SQL, JSON, HTML y Microsoft Office, siempre enfocado en garantizar la calidad del software, mejorar la experiencia del usuario y contribuir al desarrollo de productos estables y confiables.
