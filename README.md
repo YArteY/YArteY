@@ -6,7 +6,7 @@ Soy QA Engineer, graduado del programa de Quality Assurance Engineering de Tripl
 
 ## 🛠️ Tecnologías y Herramientas
 ### 🤖 Automatización de Pruebas (Web, Móvil y APIs)
-- **Python & Selenium: Desarrollo de scripts eficientes con PyTest y PyCharm para la validación automática de flujos de usuario interconectados.
+- **Python & Selenium**: Desarrollo de scripts eficientes con PyTest y PyCharm para la validación automática de flujos de usuario interconectados.
 - **Mobile Testing & API Testing**: Pruebas integrales en dispositivos reales/emuladores mediante Android Studio (logs ADB) y validación automatizada/manual de endpoints con Postman.
 
 ### 📊 Análisis de Datos & Servidores
@@ -19,3 +19,13 @@ Soy QA Engineer, graduado del programa de Quality Assurance Engineering de Tripl
   
 ## 🏆 Mi aporte:
 Mi objetivo es contribuir al desarrollo de software de alta calidad mediante pruebas manuales y automatizadas, colaborando con equipos ágiles para identificar defectos, mejorar procesos de validación y garantizar una experiencia confiable para los usuarios. Busco seguir fortaleciendo mis habilidades técnicas y aportar soluciones que generen valor desde el primer día.
+
+## 📫 Contacto:
+
+Email: arteaga04d@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/arteagadaniel/
+
+WhatsApp: +57 3052138069
+
+
